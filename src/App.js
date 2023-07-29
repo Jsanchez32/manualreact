@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 const CampuslandsApp = ()=>{
   return (
     <div>
-      <h1>Bienvenido a Campuslands</h1>
+      <h1>Bienvenidos a Campuslands</h1>
       <p>Explora nuestros campus y descubre nuevas experiencias</p>
     </div>
   );
